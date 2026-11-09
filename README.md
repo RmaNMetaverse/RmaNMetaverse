@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology, Science Fiction, VR & AR, Electronic Music,  Space, Physics & also Metaphysics
 - 🌱 I’m currently learning Unreal Engine, Virtual Production, Python, Network, Linux
 - 💞️ I’m looking to collaborate on projects related to Metaverse, and the bridge between Art & Technology
-- 📫 reach me  @: https://linkedin.com/in/arman-jangmiri-3489631b8 & https://fanlink.to/rman
+- 📫 reach me  @: https://linkedin.com/in/armanjangmiri
 
 <!---
 RmaNMetaverse/RmaNMetaverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
